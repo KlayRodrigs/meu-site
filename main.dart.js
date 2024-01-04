@@ -63239,7 +63239,7 @@ n=A.lp(A.aeJ(A.kX(A.ct("Flutter developer.",q,A.cu().$3$color$fontSize$fontWeigh
 s=t.D
 n=A.de(A.a([n,A.lp(A.kX(A.ct("Passionate about develop solutions.",q,A.cu().$3$color$fontSize$fontWeight(B.i,p?12*($.aq.a0()/3)/100:8*($.aq.a0()/3)/100,B.j),q),q),B.zo,B.ae)],s),B.ac,B.N,B.G)
 r=A.dn(q,p?40*($.aq.a0()/3)/100:20*($.aq.a0()/3)/100,q)
-return A.lb(q,A.de(A.a([o,n,r,B.Af,A.dn(q,p?40*($.aq.a0()/3)/100:20*($.aq.a0()/3)/100,q)],s),B.ac,B.N,B.G),q,q,B.wb,q,q,q,q)}}
+return A.lb(q,A.de(A.a([o,n,r,B.Af,A.dn(q,p?40*($.aq.a0()/3)/100:20*($.aq.a0()/3)/100,q)],s),B.ac,B.N,B.G),q,q,B.wb,q,q,q,1/0)}}
 A.a5U.prototype={
 $0(){return this.a.Zr()},
 $S:0}
