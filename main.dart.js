@@ -63143,8 +63143,8 @@ n=n.a.a<800
 s=A.ct("Contact",o,A.cu().$3$color$fontSize$fontWeight(B.m,n?20*($.aq.a0()/3)/100:8*($.aq.a0()/3)/100,B.j),B.X)
 r=A.dn(o,10*$.hR.a0()/100,o)
 q=t.D
-p=A.de(A.a([A.ct("Social medias",o,A.cu().$3$color$fontSize$fontWeight(B.m,n?12*($.aq.a0()/3)/100:5*($.aq.a0()/3)/100,B.j),B.X),B.HJ,B.HI,B.HK],q),B.aN,B.N,B.G)
-return A.de(A.a([m,s,r,A.mf(A.a([p,A.de(A.a([A.ct("Dm me",o,A.cu().$3$color$fontSize$fontWeight(B.m,n?12*($.aq.a0()/3)/100:5*($.aq.a0()/3)/100,B.j),o),B.HG,B.HH,B.HF],q),B.aN,B.N,B.G)],q),B.pc,B.G),A.dn(o,10*$.hR.a0()/100,o)],q),B.ac,B.N,B.G)}}
+p=A.de(A.a([A.ct("Social medias",o,A.cu().$3$color$fontSize$fontWeight(B.m,n?12*($.aq.a0()/3)/100:5*($.aq.a0()/3)/100,B.j),B.X),B.HJ,B.HH,B.HK],q),B.aN,B.N,B.G)
+return A.de(A.a([m,s,r,A.mf(A.a([p,A.de(A.a([A.ct("Dm me",o,A.cu().$3$color$fontSize$fontWeight(B.m,n?12*($.aq.a0()/3)/100:5*($.aq.a0()/3)/100,B.j),o),B.HF,B.HG,B.HI],q),B.aN,B.N,B.G)],q),B.pc,B.G),A.dn(o,10*$.hR.a0()/100,o)],q),B.ac,B.N,B.G)}}
 A.ly.prototype={
 ad(){return new A.Ik(B.k)}}
 A.Ik.prototype={
@@ -67769,10 +67769,10 @@ B.HD=new A.vp(5,"timeout")
 B.HE=new A.vq(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.v4=new A.F5(0,"permissive")
 B.Pb=new A.F5(1,"normal")
-B.HF=new A.hT("Whatsapp","https://w.app/klayrodrigs","assets/whatsapp.png",null)
-B.HG=new A.hT("E-mail 1","mailto:klayrodrigsdevb@gmail.com","assets/email.png",null)
-B.HH=new A.hT("E-mail 2","mailto:klayvert.gabriel@ufrpe.br","assets/email.png",null)
-B.HI=new A.hT("LinkedIn","https://www.linkedin.com/in/klayrodrigs/","assets/linkedin.png",null)
+B.HF=new A.hT("E-mail 1","mailto:klayrodrigsdevb@gmail.com","assets/email.png",null)
+B.HG=new A.hT("E-mail 2","mailto:klayvert.gabriel@ufrpe.br","assets/email.png",null)
+B.HH=new A.hT("LinkedIn","https://www.linkedin.com/in/klayrodrigs/","assets/linkedin.png",null)
+B.HI=new A.hT("Whatsapp","https://api.whatsapp.com/send?phone=5587999661554&text=Vi%20seu%20portif%C3%B3lio%20na%20net,%20gostaria%20de%20conversar%20com%20voc%C3%AA!","assets/whatsapp.png",null)
 B.HJ=new A.hT("Instagram","https://www.instagram.com/klayrodrigs","assets/instagram.png",null)
 B.HK=new A.hT("Github","https://www.github.com/KlayRodrigs","assets/github.png",null)
 B.HL=new A.vs(null)
