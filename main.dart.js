@@ -63199,7 +63199,7 @@ case 3:return A.V(null,r)}})
 return A.W($async$i5,r)},
 aF(){this.aU()
 this.i5()},
-L(a){var s,r,q,p,o,n,m,l,k=null,j="assets/itsmemario.jpg",i="A LITTLE BIT ABOUT ME",h="My name is Klayvert, but you guys can call me Klay or Klayv\xe3o. I'm a Flutter and Frontend Developer since 2023 and 2022 respectively. I'm searching a new job oportunity as a Flutter Developer, furthermore, i'm open for others oportunities in diferents stacks too.",g=A.cg(a,k,t.w).w.a.a
+L(a){var s,r,q,p,o,n,m,l,k=null,j="assets/itsmemario.jpg",i="A LITTLE BIT ABOUT ME",h="My name is Klayvert, but you can call me Klay or Klayv\xe3o. I've been a Flutter developer since 2023 and a frontend developer since 2022. I'm currently seeking a new opportunity as a Flutter developer(web or mobile), but I'm also open to other opportunities in different stacks.",g=A.cg(a,k,t.w).w.a.a
 if(g<1024){s=A.hF(k,5*$.aeg.aY()/100,k)
 g=g<768
 r=A.h9(k,A.h9(k,A.ry(j,k,g?200*($.bt.aY()/3)/100:120*($.bt.aY()/3)/100,k),B.u,k,k,k,k,k,B.fG,k,k,k,k),B.u,k,k,B.iI,k,k,k,k,k,k,k)
